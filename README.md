@@ -1,1 +1,1 @@
-# Entity-and-Relation-Extraction-from-Web-Pages
+# Entity and Relation Extraction from Web Pages
